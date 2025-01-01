@@ -1,0 +1,18 @@
+[
+    { "customerId": 1, "name": "Ayush Singh", "date": "2024-10-15", "amount": 120 },
+    { "customerId": 1, "name": "Ayush Singh", "date": "2024-10-20", "amount": 80 },
+    { "customerId": 1, "name": "Ayush Singh", "date": "2024-11-10", "amount": 150 },
+    { "customerId": 2, "name": "Amey Naik", "date": "2024-10-25", "amount": 140 },
+    { "customerId": 2, "name": "Amey Naik", "date": "2024-11-05", "amount": 90 },
+    { "customerId": 2, "name": "Amey Naik", "date": "2024-11-25", "amount": 200 },
+    { "customerId": 3, "name": "Aniket M", "date": "2024-10-12", "amount": 50 },
+    { "customerId": 3, "name": "Aniket M", "date": "2024-10-30", "amount": 75 },
+    { "customerId": 3, "name": "Aniket M", "date": "2024-11-15", "amount": 120 },
+    { "customerId": 4, "name": "Aditya G", "date": "2024-11-01", "amount": 60 },
+    { "customerId": 4, "name": "Aditya G", "date": "2024-11-10", "amount": 110 },
+    { "customerId": 4, "name": "Aditya G", "date": "2024-12-01", "amount": 200 },
+    { "customerId": 5, "name": "Chaitanya L", "date": "2024-10-05", "amount": 90 },
+    { "customerId": 5, "name": "Chaitanya L", "date": "2024-11-20", "amount": 130 },
+    { "customerId": 5, "name": "Chaitanya L", "date": "2024-12-15", "amount": 170 }
+  ]
+  
